@@ -1,0 +1,24 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	19
+#@/user_id	1bf63b2f-6ec9-4323-bd05-d4122bf55ffc
+bi an 	彼岸	c=1 d=1 t=1
+bi zhi 	壁紙	c=2 d=1.9802 t=13
+ce shi 	測試	c=1 d=1 t=19
+de 	的	c=0 d=0.1 t=14
+fang da 	放大	c=0 d=0.1 t=14
+fang da de 	放大的	c=1 d=1 t=15
+hai bao 	海報	c=1 d=1 t=7
+hai ke yi 	還可以	c=1 d=1 t=17
+ke nan 	柯南	c=3 d=2.9216 t=12
+ming 	名	c=0 d=0.1 t=3
+ming zhen tan 	名偵探	c=3 d=2.96062 t=11
+mo ren 	默認	c=1 d=1 t=18
+ren wu 	人物	c=1 d=1 t=6
+tu wang 	圖網	c=1 d=1 t=2
+xiao guo 	效果	c=1 d=1 t=16
+yong 	用	c=1 d=1 t=14
+zhen tan 	偵探	c=0 d=0.1 t=3
+zhuo mian 	桌面	c=1 d=1 t=8
